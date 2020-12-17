@@ -5,17 +5,12 @@ output: github_document
 status_repo: gadenbuie/status
 # list of repositories by owner name and repo
 params:
-  gadenbuie:
-  - js4shiny
-  - xaringanthemer
-  - xaringanExtra
-  - metathis
-  - starwarsdb
-  - shrtcts
-  rstudio-education:
-  - gradethis
-  rstudio:
-  - learnr
+  lazappi:
+  - clustree
+  oshlack:
+  - splatter
+  theislab:
+  - zellkonverter
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
