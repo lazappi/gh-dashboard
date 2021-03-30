@@ -1,10 +1,10 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/696786686,failure,Added conditional effect feature,b25606527dd0d40c132296881ffce0e31a8af7b4,azodichr/splatter,https://github.com/azodichr/splatter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/450958999,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,100,100,11,10
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/450887969,success,Run test coverage GHA on ci branch,887e1d05ecf7dcf22b3beea3b513b8ed287cf47e,lazappi/clustree,https://github.com/lazappi/clustree,100,100,11,10
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/450959002,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,100,100,11,10
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/393553050,failure,Update NEWS again,0371168e8df6917b8a1b46a1d1a865b78ff5d35d,Oshlack/splatter,https://github.com/Oshlack/splatter,128,128,7,45
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/631793737,failure,"Merge branch 'RELEASE_3_12'
 
 * RELEASE_3_12:
   Bump release 3.12 version to 1.0.3
-  Avoid converting obsp and varp to dense matrices",02e4e242116924e9add06af0b76bc3751b7b0bfd,theislab/zellkonverter,https://github.com/theislab/zellkonverter,30,30,8,8
+  Avoid converting obsp and varp to dense matrices",02e4e242116924e9add06af0b76bc3751b7b0bfd,theislab/zellkonverter,https://github.com/theislab/zellkonverter,31,31,8,8
