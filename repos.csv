@@ -2,5 +2,11 @@ owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,comm
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/450958999,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,103,103,12,10
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/450887969,success,Run test coverage GHA on ci branch,887e1d05ecf7dcf22b3beea3b513b8ed287cf47e,lazappi/clustree,https://github.com/lazappi/clustree,103,103,12,10
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/450959002,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,103,103,12,10
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/853924895,failure,Update NEWS.Rd for release,73a900f1a1602de0ae271312829b9a35706b2eb1,Oshlack/splatter,https://github.com/Oshlack/splatter,133,133,6,45
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/856823045,failure,Bump version,4678c044970a20418503442b534edd3ab2a82909,theislab/zellkonverter,https://github.com/theislab/zellkonverter,37,37,10,6
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/859753248,failure,"Merge branch 'RELEASE_3_13'
+
+* RELEASE_3_13:
+  Fix bug in validating splatPopParams",bef776a105d49621545d237cf671f4de990d8b0d,Oshlack/splatter,https://github.com/Oshlack/splatter,133,133,6,45
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/859859261,failure,"Merge remote-tracking branch 'upstream/master'
+
+* upstream/master:
+  bump x.y.z version to odd y following creation of RELEASE_3_13 branch",eef05c9839ab8bbaa53a087e329023c24454762f,theislab/zellkonverter,https://github.com/theislab/zellkonverter,37,37,11,6
