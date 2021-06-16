@@ -9,4 +9,4 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/859859261,failure,"Merge remote-tracking branch 'upstream/master'
 
 * upstream/master:
-  bump x.y.z version to odd y following creation of RELEASE_3_13 branch",eef05c9839ab8bbaa53a087e329023c24454762f,theislab/zellkonverter,https://github.com/theislab/zellkonverter,37,37,12,7
+  bump x.y.z version to odd y following creation of RELEASE_3_13 branch",eef05c9839ab8bbaa53a087e329023c24454762f,theislab/zellkonverter,https://github.com/theislab/zellkonverter,38,38,12,7
