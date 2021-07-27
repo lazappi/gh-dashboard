@@ -5,7 +5,7 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/859753248,failure,"Merge branch 'RELEASE_3_13'
 
 * RELEASE_3_13:
-  Fix bug in validating splatPopParams",bef776a105d49621545d237cf671f4de990d8b0d,Oshlack/splatter,https://github.com/Oshlack/splatter,133,133,8,44
+  Fix bug in validating splatPopParams",bef776a105d49621545d237cf671f4de990d8b0d,Oshlack/splatter,https://github.com/Oshlack/splatter,134,134,8,44
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/959874353,failure,"Merge branch 'RELEASE_3_13'
 
 * RELEASE_3_13:
