@@ -9,4 +9,4 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/959874353,failure,"Merge branch 'RELEASE_3_13'
 
 * RELEASE_3_13:
-  Fix bug in converting dgRMatrix sparse matrices",8a4f8557790f41605b70e974b36fe6f26fbff9bc,theislab/zellkonverter,https://github.com/theislab/zellkonverter,42,42,12,7
+  Fix bug in converting dgRMatrix sparse matrices",8a4f8557790f41605b70e974b36fe6f26fbff9bc,theislab/zellkonverter,https://github.com/theislab/zellkonverter,43,43,12,7
