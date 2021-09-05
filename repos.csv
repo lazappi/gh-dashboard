@@ -6,4 +6,4 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/959874353,failure,"Merge branch 'RELEASE_3_13'
 
 * RELEASE_3_13:
-  Fix bug in converting dgRMatrix sparse matrices",8a4f8557790f41605b70e974b36fe6f26fbff9bc,theislab/zellkonverter,https://github.com/theislab/zellkonverter,43,43,11,7
+  Fix bug in converting dgRMatrix sparse matrices",8a4f8557790f41605b70e974b36fe6f26fbff9bc,theislab/zellkonverter,https://github.com/theislab/zellkonverter,44,44,11,7
