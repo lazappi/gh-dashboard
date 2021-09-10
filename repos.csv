@@ -3,7 +3,26 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/450958999,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,107,107,9,11
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/450887969,success,Run test coverage GHA on ci branch,887e1d05ecf7dcf22b3beea3b513b8ed287cf47e,lazappi/clustree,https://github.com/lazappi/clustree,107,107,9,11
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/450959002,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,107,107,9,11
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/959874353,failure,"Merge branch 'RELEASE_3_13'
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/1217687376,failure,"Merge branch 'datasets'
 
-* RELEASE_3_13:
-  Fix bug in converting dgRMatrix sparse matrices",8a4f8557790f41605b70e974b36fe6f26fbff9bc,theislab/zellkonverter,https://github.com/theislab/zellkonverter,44,44,11,7
+* datasets:
+  Bump version
+  Bump roxygen version
+  Add CellRank pancreas dataset to long tests
+  Add Pegasus marrow dataset to long tests
+  Remove example from validation functions
+  Add squidpy visium dataset to long tests
+  Remove pandas index stored by reticulate
+  Remove redundant code in .convert_anndata_slot
+  Add scVI CITE-seq dataset to long tests
+  Convert redDim matrices with colnames to DataFrames
+  Handle DataFrames in adata.obsm
+  Remove missing rank_genes_groups from scanpy_trajectory
+  Add scVelo pancreas dataset to longtests
+  Update scanpy_trajectory datasets
+  Add scanpy trajectory dataset longtests
+  Enable recursive conversion of lists
+  Add missing package prefixes in validation functions
+  Update longtest to use validation functions
+  Add validation functions
+  Add scanpy-pbmc3k longtests",5e928bfa9b205ab1d507fc3893123394a2769f97,theislab/zellkonverter,https://github.com/theislab/zellkonverter,44,44,11,7
