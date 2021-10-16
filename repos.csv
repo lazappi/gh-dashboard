@@ -25,4 +25,4 @@ theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflo
   Add missing package prefixes in validation functions
   Update longtest to use validation functions
   Add validation functions
-  Add scanpy-pbmc3k longtests",5e928bfa9b205ab1d507fc3893123394a2769f97,theislab/zellkonverter,https://github.com/theislab/zellkonverter,46,46,12,7
+  Add scanpy-pbmc3k longtests",5e928bfa9b205ab1d507fc3893123394a2769f97,theislab/zellkonverter,https://github.com/theislab/zellkonverter,46,46,13,8
