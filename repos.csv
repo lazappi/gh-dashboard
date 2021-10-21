@@ -3,26 +3,4 @@ lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-che
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/450887969,success,Run test coverage GHA on ci branch,887e1d05ecf7dcf22b3beea3b513b8ed287cf47e,lazappi/clustree,https://github.com/lazappi/clustree,110,110,10,11
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/450959002,success,Update CI (#68),df3f57713c44cf2254aa64f889c4b376cd01e7df,lazappi/clustree,https://github.com/lazappi/clustree,110,110,10,11
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/1316107437,failure,Update NEWS,4edfb8b4b2406043a6662b970d1b8e63f152a3c0,Oshlack/splatter,https://github.com/Oshlack/splatter,138,138,10,46
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/1217687376,failure,"Merge branch 'datasets'
-
-* datasets:
-  Bump version
-  Bump roxygen version
-  Add CellRank pancreas dataset to long tests
-  Add Pegasus marrow dataset to long tests
-  Remove example from validation functions
-  Add squidpy visium dataset to long tests
-  Remove pandas index stored by reticulate
-  Remove redundant code in .convert_anndata_slot
-  Add scVI CITE-seq dataset to long tests
-  Convert redDim matrices with colnames to DataFrames
-  Handle DataFrames in adata.obsm
-  Remove missing rank_genes_groups from scanpy_trajectory
-  Add scVelo pancreas dataset to longtests
-  Update scanpy_trajectory datasets
-  Add scanpy trajectory dataset longtests
-  Enable recursive conversion of lists
-  Add missing package prefixes in validation functions
-  Update longtest to use validation functions
-  Add validation functions
-  Add scanpy-pbmc3k longtests",5e928bfa9b205ab1d507fc3893123394a2769f97,theislab/zellkonverter,https://github.com/theislab/zellkonverter,46,46,13,8
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/1365126186,success,Update NEWS.Rd for release,e4fc11792b1b600f52acf6b3384a1eda46362b4c,theislab/zellkonverter,https://github.com/theislab/zellkonverter,46,46,10,8
