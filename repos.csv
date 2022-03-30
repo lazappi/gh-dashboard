@@ -22,7 +22,7 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,9,12
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/1969258446,failure,"Merge pull request #134 from wenjie2wang/issue-132
 
-Fixes #132",8994c43a46e0e7c2e3d33fa4a732924d740b9b46,Oshlack/splatter,https://github.com/Oshlack/splatter,159,159,11,50
+Fixes #132",8994c43a46e0e7c2e3d33fa4a732924d740b9b46,Oshlack/splatter,https://github.com/Oshlack/splatter,159,159,12,50
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2015696652,failure,"Merge remote-tracking branch 'upstream/master'
 
 * upstream/master:
