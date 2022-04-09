@@ -5,25 +5,25 @@ lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-che
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,9,12
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262851,success,"Merge branch 'master' into develop
 
 * master:
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,9,12
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262845,success,"Merge branch 'master' into develop
 
 * master:
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,122,122,9,12
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/1969258446,failure,"Merge pull request #134 from wenjie2wang/issue-132
 
-Fixes #132",8994c43a46e0e7c2e3d33fa4a732924d740b9b46,Oshlack/splatter,https://github.com/Oshlack/splatter,159,159,12,50
+Fixes #132",8994c43a46e0e7c2e3d33fa4a732924d740b9b46,Oshlack/splatter,https://github.com/Oshlack/splatter,159,159,11,50
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2015696652,failure,"Merge remote-tracking branch 'upstream/master'
 
 * upstream/master:
-  Starting with BioC 3.15 + R 4.2, 32-bit Windows is no longer supported so Windows builds are single arch only (i.e. 64-bit only)",2c81184e7b973776c868fc5b959a8185b8ccbf33,theislab/zellkonverter,https://github.com/theislab/zellkonverter,54,54,11,9
+  Starting with BioC 3.15 + R 4.2, 32-bit Windows is no longer supported so Windows builds are single arch only (i.e. 64-bit only)",2c81184e7b973776c868fc5b959a8185b8ccbf33,theislab/zellkonverter,https://github.com/theislab/zellkonverter,55,55,10,9
