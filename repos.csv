@@ -23,7 +23,4 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/1969258446,failure,"Merge pull request #134 from wenjie2wang/issue-132
 
 Fixes #132",8994c43a46e0e7c2e3d33fa4a732924d740b9b46,Oshlack/splatter,https://github.com/Oshlack/splatter,160,160,11,50
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2015696652,failure,"Merge remote-tracking branch 'upstream/master'
-
-* upstream/master:
-  Starting with BioC 3.15 + R 4.2, 32-bit Windows is no longer supported so Windows builds are single arch only (i.e. 64-bit only)",2c81184e7b973776c868fc5b959a8185b8ccbf33,theislab/zellkonverter,https://github.com/theislab/zellkonverter,55,55,10,9
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2180521098,failure,Fix typo in NEWS,7a9806db85c19631de5b90fe9972b85c437d2331,theislab/zellkonverter,https://github.com/theislab/zellkonverter,55,55,10,9
