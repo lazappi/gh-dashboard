@@ -21,7 +21,8 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Minor updates to URLs in documentation
   Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,127,127,10,12
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2239532437,failure,Bioconductor 3.16 devel,a963d8d806e3d645f9e664e884aecd148430f605,Oshlack/splatter,https://github.com/Oshlack/splatter,168,168,8,51
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2339423269,failure,"Merge branch 'RELEASE_3_15'
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2467339983,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Fix bug in long tests",45e77827d8371ed7dfc4ced17fa0032f767bea6a,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,13,9
+  Allow missing obs/var names when use_hdf5 = TRUE
+  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,11,9
