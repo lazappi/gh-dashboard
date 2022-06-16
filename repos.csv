@@ -5,21 +5,21 @@ lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-che
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,127,127,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262851,success,"Merge branch 'master' into develop
 
 * master:
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,127,127,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262845,success,"Merge branch 'master' into develop
 
 * master:
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,127,127,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2239532437,failure,Bioconductor 3.16 devel,a963d8d806e3d645f9e664e884aecd148430f605,Oshlack/splatter,https://github.com/Oshlack/splatter,168,168,8,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2467339983,failure,"Merge branch 'RELEASE_3_15'
 
