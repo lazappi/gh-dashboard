@@ -1,28 +1,16 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262853,failure,"Merge branch 'master' into develop
-
-* master:
-  Update URL in README
-  Update CRAN comments
-  Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
+lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2516249992,action_required,Addded control of the node text rotation,529177e8e4f34b49926ac1708a60ec54478775ea,kvittingseerup/clustree,https://github.com/kvittingseerup/clustree,0,0,0,0
+lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2516249998,action_required,Addded control of the node text rotation,529177e8e4f34b49926ac1708a60ec54478775ea,kvittingseerup/clustree,https://github.com/kvittingseerup/clustree,0,0,0,0
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262851,success,"Merge branch 'master' into develop
 
 * master:
   Update URL in README
   Update CRAN comments
   Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
-lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/1443262845,success,"Merge branch 'master' into develop
-
-* master:
-  Update URL in README
-  Update CRAN comments
-  Minor updates to URLs in documentation
-  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,12
+  Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2239532437,failure,Bioconductor 3.16 devel,a963d8d806e3d645f9e664e884aecd148430f605,Oshlack/splatter,https://github.com/Oshlack/splatter,168,168,8,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2467339983,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
   Allow missing obs/var names when use_hdf5 = TRUE
-  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,11,9
+  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,12,9
