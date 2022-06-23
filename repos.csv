@@ -13,4 +13,4 @@ theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflo
 
 * RELEASE_3_15:
   Allow missing obs/var names when use_hdf5 = TRUE
-  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,12,9
+  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,13,9
