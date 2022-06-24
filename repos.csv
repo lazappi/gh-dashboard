@@ -9,8 +9,7 @@ lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/b
   Minor updates to URLs in documentation
   Minor changes to tests for Bioc 3.14",58cabf6044bf77096f15d6ce5d25156681f4bcfd,lazappi/clustree,https://github.com/lazappi/clustree,128,128,11,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2239532437,failure,Bioconductor 3.16 devel,a963d8d806e3d645f9e664e884aecd148430f605,Oshlack/splatter,https://github.com/Oshlack/splatter,168,168,8,51
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2467339983,failure,"Merge branch 'RELEASE_3_15'
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2547730680,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Allow missing obs/var names when use_hdf5 = TRUE
-  Instantiate envrionments for `basilisk::configureBasiliskEnv()`",953615bed4002f31c8fb70f5e2b9cb6e2f0ca4ff,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,13,9
+  Move verbose from zellkonverterAnnDataEnv()",280620b25e5b99b4d7572c5e52253def86671995,theislab/zellkonverter,https://github.com/theislab/zellkonverter,66,66,13,9
