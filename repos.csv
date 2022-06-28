@@ -1,7 +1,25 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2561825865,success,Update CRAN comments,54d9f2ee1fecd683535dfb37e707468cbf551f01,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,13
-lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/2556835328,failure,Bump dev version and reoxygenise,db7f8c5dae7d1bf0d43700c222352ab79a2c9ea9,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,13
-lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2561825866,failure,Update CRAN comments,54d9f2ee1fecd683535dfb37e707468cbf551f01,lazappi/clustree,https://github.com/lazappi/clustree,128,128,10,13
+lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
+
+* master:
+  Remove CRAN-SUBMISSION
+  Add CRAN-SUBMISSION
+  Update CRAN comments
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,128,128,9,13
+lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418946,failure,"Merge branch 'master' into develop
+
+* master:
+  Remove CRAN-SUBMISSION
+  Add CRAN-SUBMISSION
+  Update CRAN comments
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,128,128,9,13
+lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418948,success,"Merge branch 'master' into develop
+
+* master:
+  Remove CRAN-SUBMISSION
+  Add CRAN-SUBMISSION
+  Update CRAN comments
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,128,128,9,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2239532437,failure,Bioconductor 3.16 devel,a963d8d806e3d645f9e664e884aecd148430f605,Oshlack/splatter,https://github.com/Oshlack/splatter,168,168,8,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2547730680,failure,"Merge branch 'RELEASE_3_15'
 
