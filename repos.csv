@@ -1,5 +1,5 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2714436480,failure,fix Row.names vs rownames bug and catch batch.size request mistakes,23268a6822653d567c716569b507aa9cd903d842,azodichr/splatter,https://github.com/azodichr/splatter,0,0,0,0
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2720557957,failure,fix nCells samper when only one batch is being simulated,b586283c6a1f71a7daff2e7e7ad6d19746e08312,azodichr/splatter,https://github.com/azodichr/splatter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
