@@ -24,4 +24,4 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2547730680,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Move verbose from zellkonverterAnnDataEnv()",280620b25e5b99b4d7572c5e52253def86671995,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,13,9
+  Move verbose from zellkonverterAnnDataEnv()",280620b25e5b99b4d7572c5e52253def86671995,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,14,9
