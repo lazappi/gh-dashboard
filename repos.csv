@@ -1,5 +1,4 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2720557957,failure,fix nCells samper when only one batch is being simulated,b586283c6a1f71a7daff2e7e7ad6d19746e08312,azodichr/splatter,https://github.com/azodichr/splatter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
@@ -21,7 +20,10 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Add CRAN-SUBMISSION
   Update CRAN comments
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,131,131,9,13
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2840052661,failure,"Fix bug in BASiCSSimulate() when spike.means is resampled
+
+Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,172,172,10,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2547730680,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Move verbose from zellkonverterAnnDataEnv()",280620b25e5b99b4d7572c5e52253def86671995,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,13,9
+  Move verbose from zellkonverterAnnDataEnv()",280620b25e5b99b4d7572c5e52253def86671995,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,12,9
