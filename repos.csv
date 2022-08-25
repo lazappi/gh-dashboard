@@ -26,4 +26,4 @@ Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://gi
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2873598101,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Minor changes of the upcoming Matrix 1.4-2 release",f9303c4695221060e551ddffe2e40e58aeb66a0e,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,13,9
+  Minor changes of the upcoming Matrix 1.4-2 release",f9303c4695221060e551ddffe2e40e58aeb66a0e,theislab/zellkonverter,https://github.com/theislab/zellkonverter,69,69,14,9
