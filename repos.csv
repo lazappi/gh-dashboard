@@ -5,21 +5,21 @@ lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-che
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,132,132,9,13
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,133,133,9,13
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418946,failure,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,132,132,9,13
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,133,133,9,13
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418948,success,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,132,132,9,13
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,133,133,9,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2840052661,failure,"Fix bug in BASiCSSimulate() when spike.means is resampled
 
 Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,172,172,10,51
