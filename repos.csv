@@ -22,7 +22,7 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,133,133,9,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2840052661,failure,"Fix bug in BASiCSSimulate() when spike.means is resampled
 
-Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,172,172,10,51
+Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,173,173,10,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/2873598101,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
