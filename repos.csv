@@ -26,4 +26,4 @@ Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://gi
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3043754323,failure,"Merge branch 'RELEASE_3_15'
 
 * RELEASE_3_15:
-  Minor changes for compatibility with {cli} v3.4.0",d4c8fb81f7e4a8b65f3dcf4d5d73e827b137f458,theislab/zellkonverter,https://github.com/theislab/zellkonverter,70,70,15,9
+  Minor changes for compatibility with {cli} v3.4.0",d4c8fb81f7e4a8b65f3dcf4d5d73e827b137f458,theislab/zellkonverter,https://github.com/theislab/zellkonverter,70,70,14,9
