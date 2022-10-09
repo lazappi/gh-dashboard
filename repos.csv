@@ -22,7 +22,7 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,133,133,9,13
 oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/2840052661,failure,"Fix bug in BASiCSSimulate() when spike.means is resampled
 
-Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,174,174,9,51
+Fixes #153",d6a5d4cdaef41f4306b72e82a322944d5fb7844d,Oshlack/splatter,https://github.com/Oshlack/splatter,175,175,9,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3180480534,failure,"Fix Python version in anndata v0.7.6 environment
 
 Need to pin 3.7.10 not 3.7.12",038eb8a9671b2f53a119a43ba476c5cb974742f0,theislab/zellkonverter,https://github.com/theislab/zellkonverter,70,70,14,10
