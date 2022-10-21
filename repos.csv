@@ -21,4 +21,4 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Add CRAN-SUBMISSION
   Update CRAN comments
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,135,135,9,13
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3282933676,action_required,fix ci script,1f7439ff0e3c568f104e0a10cec5ba7ab45bb443,rcannood/zellkonverter,https://github.com/rcannood/zellkonverter,0,0,0,0
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3282933676,failure,fix ci script,1f7439ff0e3c568f104e0a10cec5ba7ab45bb443,rcannood/zellkonverter,https://github.com/rcannood/zellkonverter,0,0,0,0
