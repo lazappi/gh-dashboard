@@ -20,7 +20,5 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Add CRAN-SUBMISSION
   Update CRAN comments
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,135,135,9,13
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/3322031556,failure,Try using default repos to install preprocessCore,7b3f49857e3554518293660a4d7bd6ffe06e200d,Oshlack/splatter,https://github.com/Oshlack/splatter,176,176,10,51
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3321539180,failure,"Set R_BIOC_VERSION
-
-Needed for {pak} to install Bioc devel",cf2fa54b197b36e15ce12633e658fb58baaf1c15,theislab/zellkonverter,https://github.com/theislab/zellkonverter,73,73,17,11
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/3332259024,failure,Update NEWS for Bioconductor 3.16 release,1768d11cdd5e7e763b9203a11d2d225d60ba911e,Oshlack/splatter,https://github.com/Oshlack/splatter,176,176,8,51
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3332157277,failure,Update NEWS for Bioconductor 3.16 release,071ebe26dceca820136a2f2f35edd7df1777f18b,theislab/zellkonverter,https://github.com/theislab/zellkonverter,73,73,13,11
