@@ -20,5 +20,5 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Add CRAN-SUBMISSION
   Update CRAN comments
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,138,138,10,14
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/3393933675,failure,Bioconductor 3.17 devel,7f6a3d4d495418d79489c819af0703ae26e13c53,Oshlack/splatter,https://github.com/Oshlack/splatter,176,176,8,51
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/3393933675,failure,Bioconductor 3.17 devel,7f6a3d4d495418d79489c819af0703ae26e13c53,Oshlack/splatter,https://github.com/Oshlack/splatter,176,176,9,51
 theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3393873136,failure,Bioconductor 3.17 devel,fa22a4490eb657553cb95d4ffc65625b90979997,theislab/zellkonverter,https://github.com/theislab/zellkonverter,73,73,13,11
