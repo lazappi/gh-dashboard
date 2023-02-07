@@ -4,6 +4,7 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 * RELEASE_3_16:
   Bump version and update NEWS
   address bug with conditional group assignements being incorrect in cases where batch effects are applied. See issues 158 and 160.",8edc90011fdc74d5d49026a1fad30dfc98b9d699,Oshlack/splatter,https://github.com/Oshlack/splatter,179,179,8,52
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4109176744,action_required,Wrap categories conversion in if/else,d81ac10fa8e5bb66296994f8995c690e57c04bba,jackkamm/zellkonverter,https://github.com/jackkamm/zellkonverter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
@@ -25,4 +26,3 @@ lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-cove
   Add CRAN-SUBMISSION
   Update CRAN comments
   Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,142,142,12,14
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/3393873136,failure,Bioconductor 3.17 devel,fa22a4490eb657553cb95d4ffc65625b90979997,theislab/zellkonverter,https://github.com/theislab/zellkonverter,80,80,13,13
