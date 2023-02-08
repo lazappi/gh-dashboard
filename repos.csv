@@ -4,7 +4,7 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 * RELEASE_3_16:
   Bump version and update NEWS
   address bug with conditional group assignements being incorrect in cases where batch effects are applied. See issues 158 and 160.",8edc90011fdc74d5d49026a1fad30dfc98b9d699,Oshlack/splatter,https://github.com/Oshlack/splatter,179,179,8,52
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4109176744,action_required,Wrap categories conversion in if/else,d81ac10fa8e5bb66296994f8995c690e57c04bba,jackkamm/zellkonverter,https://github.com/jackkamm/zellkonverter,0,0,0,0
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4109176744,failure,Wrap categories conversion in if/else,d81ac10fa8e5bb66296994f8995c690e57c04bba,jackkamm/zellkonverter,https://github.com/jackkamm/zellkonverter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
