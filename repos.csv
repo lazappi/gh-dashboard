@@ -4,7 +4,7 @@ oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-chec
 * RELEASE_3_16:
   Bump version and update NEWS
   address bug with conditional group assignements being incorrect in cases where batch effects are applied. See issues 158 and 160.",8edc90011fdc74d5d49026a1fad30dfc98b9d699,Oshlack/splatter,https://github.com/Oshlack/splatter,181,181,8,52
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4350361208,failure,Add native reader support for AnnData v0.8.0,843fbc2faf8f87e3aeec741f32e6a423634d4c6b,jackkamm/zellkonverter,https://github.com/jackkamm/zellkonverter,0,0,0,0
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4400076127,action_required,Remove need to explicitly specify older version in native R reader,0e91e529fc581fe3281bb3500dfc329ffb41de6e,jackkamm/zellkonverter,https://github.com/jackkamm/zellkonverter,0,0,0,0
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
