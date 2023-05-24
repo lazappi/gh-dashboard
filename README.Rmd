@@ -13,8 +13,13 @@ repos:
   - clustree
   oshlack:
   - splatter
+  scRNA-tools:
+  - scRNA-tools
   theislab:
   - zellkonverter
+  - scib
+  scverse:
+  - anndataR
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
