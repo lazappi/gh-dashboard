@@ -8,7 +8,7 @@ all_by_owner: lazappi
 # the repository where this repo exists
 status_repo: lazappi/gh-dashboard
 # list of repositories by owner name and repo
-params:
+repos:
   lazappi:
   - clustree
   oshlack:
