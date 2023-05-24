@@ -1,28 +1,65 @@
-owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/4861099493,failure,Bioconductor 3.18 devel,569f21399578f97696d45e16ce8114dc39f5d975,Oshlack/splatter,https://github.com/Oshlack/splatter,186,186,9,53
-lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
+owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
+oshlack,splatter,Oshlack/splatter,186,6,9,53,FALSE,https://github.com/Oshlack/splatter,NA,569f21399578f97696d45e16ce8114dc39f5d975,Bioconductor 3.18 devel,[![](https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/Oshlack/splatter/actions/runs/4861099493)
+lazappi,Hello-World,lazappi/Hello-World,0,2,0,0,FALSE,https://github.com/lazappi/Hello-World,0,NA,NA,NA
+lazappi,HiTIME-CPP,lazappi/HiTIME-CPP,0,2,0,4,FALSE,https://github.com/lazappi/HiTIME-CPP,0,NA,NA,NA
+lazappi,OzSingleCell2019,lazappi/OzSingleCell2019,1,1,0,0,FALSE,https://github.com/lazappi/OzSingleCell2019,1,NA,NA,NA
+lazappi,RNAtools,lazappi/RNAtools,4,3,6,3,FALSE,https://github.com/lazappi/RNAtools,4,NA,NA,NA
+lazappi,afl-2018,lazappi/afl-2018,0,2,0,0,FALSE,https://github.com/lazappi/afl-2018,0,NA,NA,NA
+lazappi,aflelo,lazappi/aflelo,1,2,0,0,FALSE,https://github.com/lazappi/aflelo,1,NA,NA,NA
+lazappi,binf-scripts,lazappi/binf-scripts,7,2,0,6,FALSE,https://github.com/lazappi/binf-scripts,7,NA,NA,NA
+lazappi,bpipes,lazappi/bpipes,0,2,0,0,FALSE,https://github.com/lazappi/bpipes,0,NA,NA,NA
+lazappi,calc,lazappi/calc,0,2,0,0,FALSE,https://github.com/lazappi/calc,0,NA,NA,NA
+lazappi,clamour,lazappi/clamour,5,1,1,1,FALSE,https://github.com/lazappi/clamour,5,NA,NA,NA
+lazappi,clamour-example,lazappi/clamour-example,0,1,0,0,FALSE,https://github.com/lazappi/clamour-example,0,NA,NA,NA
+lazappi,clustree,lazappi/clustree,159,5,13,16,FALSE,https://github.com/lazappi/clustree,NA,cb0256d419e0bb7129bec917f1ebaeacdf0c2842,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
-lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418946,failure,"Merge branch 'master' into develop
+  Update NEWS for release",[![](https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418949) [![](https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418946) [![](https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418948)
+lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,9,2,0,4,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,9,NA,NA,NA
+lazappi,doilinker,lazappi/doilinker,5,2,2,0,FALSE,https://github.com/lazappi/doilinker,5,7d908f875a1193efba50174f8a9337c5598ea89c,":wrench: Set language to en-GB
 
-* master:
-  Remove CRAN-SUBMISSION
-  Add CRAN-SUBMISSION
-  Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
-lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418948,success,"Merge branch 'master' into develop
+Also add date to DESCRIPTION/NEWS",[![](https://github.com/lazappi/doilinker/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/doilinker/actions/runs/971297638) [![](https://github.com/lazappi/doilinker/workflows/pkgdown/badge.svg)](https://github.com/lazappi/doilinker/actions/runs/971297640)
+lazappi,gh-dashboard,lazappi/gh-dashboard,0,2,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,311b4672e1698e4f36dd8bf589cdc85f12e73ef0,"Add scib, scRNA-tools, anndataR",[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/5069077488)
+lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,2,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
+lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,2,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
+lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,2,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
+lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,6f502cfb3916a0057ad792eabde023338df7ab26,Re-build README.Rmd,[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/5068830756)
+lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,2,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
+lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,2,0,0,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
+lazappi,lazappi_pkg,lazappi/lazappi_pkg,0,2,0,0,FALSE,https://github.com/lazappi/lazappi_pkg,0,NA,NA,NA
+lazappi,mcriPalettes,lazappi/mcriPalettes,1,2,0,0,FALSE,https://github.com/lazappi/mcriPalettes,1,NA,NA,NA
+lazappi,mypkg,lazappi/mypkg,0,2,0,0,FALSE,https://github.com/lazappi/mypkg,0,NA,NA,NA
+lazappi,nba_positions,lazappi/nba_positions,4,2,0,1,FALSE,https://github.com/lazappi/nba_positions,4,NA,NA,NA
+lazappi,oecd-housing,lazappi/oecd-housing,0,1,0,0,FALSE,https://github.com/lazappi/oecd-housing,0,NA,NA,NA
+lazappi,ozsinglecell18-twitter,lazappi/ozsinglecell18-twitter,0,2,0,0,FALSE,https://github.com/lazappi/ozsinglecell18-twitter,0,NA,NA,NA
+lazappi,phd-commits,lazappi/phd-commits,28,2,0,7,FALSE,https://github.com/lazappi/phd-commits,28,NA,NA,NA
+lazappi,phd-thesis,lazappi/phd-thesis,5,3,0,4,FALSE,https://github.com/lazappi/phd-thesis,5,NA,NA,NA
+lazappi,phd-thesis-analysis,lazappi/phd-thesis-analysis,5,2,0,2,FALSE,https://github.com/lazappi/phd-thesis-analysis,5,NA,NA,NA
+lazappi,prettytc,lazappi/prettytc,1,2,0,0,FALSE,https://github.com/lazappi/prettytc,1,NA,NA,NA
+lazappi,requestival,lazappi/requestival,1,1,0,0,FALSE,https://github.com/lazappi/requestival,1,NA,NA,NA
+lazappi,separate_rmarkdown_navbar,lazappi/separate_rmarkdown_navbar,1,2,0,2,FALSE,https://github.com/lazappi/separate_rmarkdown_navbar,1,NA,NA,NA
+lazappi,thesis-template,lazappi/thesis-template,2,2,0,0,FALSE,https://github.com/lazappi/thesis-template,2,NA,NA,NA
+lazappi,twitter-stats,lazappi/twitter-stats,2,2,0,7,FALSE,https://github.com/lazappi/twitter-stats,2,NA,NA,NA
+lazappi,universe,lazappi/universe,0,2,0,0,FALSE,https://github.com/lazappi/universe,0,NA,NA,NA
+lazappi,wcplot,lazappi/wcplot,0,2,0,0,FALSE,https://github.com/lazappi/wcplot,0,NA,NA,NA
+lazappi,workshop-notes,lazappi/workshop-notes,0,2,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
+scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,266,18,5,72,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,804009c041e1a38999e41935bc464478cf354873,Merge pull request #249 from lazappi/master,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/5064344428)
+scverse,anndataR,scverse/anndataR,20,4,19,0,FALSE,https://github.com/scverse/anndataR,NA,3f5f823031d07ea3e7dd239df0b04641e5b07e88,remove shape trackstatus for now,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/5052851666) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/5052851667) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/5052851665)
+theislab,scib,theislab/scib,211,16,24,41,FALSE,https://github.com/theislab/scib,NA,96556af27d94053a0e25f44383838e9e706683bc,move flake8 args to setup.cfg,[![](https://github.com/theislab/scib/workflows/Pre-commit/badge.svg)](https://github.com/theislab/scib/actions/runs/2276639868)
+theislab,scib,theislab/scib,211,16,24,41,FALSE,https://github.com/theislab/scib,NA,cce7aaa65ccc18649e141e30464361d1fc67ea77,"more readable PCA computation and info retrieval (#377)
 
-* master:
-  Remove CRAN-SUBMISSION
-  Add CRAN-SUBMISSION
-  Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/5055712904,failure,"Merge branch 'RELEASE_3_17' into devel
+* more readable PCA computation and info retrieval
+
+* update isort
+
+* explicit stacklevel for warnings
+
+* downgrade pandas",[![](https://github.com/theislab/scib/workflows/Deployment/badge.svg)](https://github.com/theislab/scib/actions/runs/4599374056)
+theislab,zellkonverter,theislab/zellkonverter,89,5,17,17,FALSE,https://github.com/theislab/zellkonverter,NA,b56718d113327020c024e188d9ac67ea57eaf35d,"Merge branch 'RELEASE_3_17' into devel
 
 * RELEASE_3_17:
   Convert anndata backed sparse matrices in AnnData2SCE()
-  Pass correct dimensions when reading raw",b56718d113327020c024e188d9ac67ea57eaf35d,theislab/zellkonverter,https://github.com/theislab/zellkonverter,89,89,17,17
+  Pass correct dimensions when reading raw",[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/5055712904)
