@@ -1,28 +1,28 @@
 owner,repo,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id,repo_name,html_url_repo,stargazers_count,watchers_count,open_issues_count,forks_count
-oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/4042908326,failure,"Merge branch 'RELEASE_3_16'
-
-* RELEASE_3_16:
-  Bump version and update NEWS
-  address bug with conditional group assignements being incorrect in cases where batch effects are applied. See issues 158 and 160.",8edc90011fdc74d5d49026a1fad30dfc98b9d699,Oshlack/splatter,https://github.com/Oshlack/splatter,182,182,9,52
+oshlack,splatter,471280,https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/Oshlack/splatter/actions/runs/4861099493,failure,Bioconductor 3.18 devel,569f21399578f97696d45e16ce8114dc39f5d975,Oshlack/splatter,https://github.com/Oshlack/splatter,186,186,9,53
 lazappi,clustree,4577569,https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418949,failure,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,144,144,12,14
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
 lazappi,clustree,4578340,https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418946,failure,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,144,144,12,14
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
 lazappi,clustree,4578891,https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg,https://github.com/lazappi/clustree/actions/runs/2567418948,success,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
   Add CRAN-SUBMISSION
   Update CRAN comments
-  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,144,144,12,14
-theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/4540381753,cancelled,Use devel branch in GitHub actions,45944104d2a5b4a0d59c20ea631ecc0cd9ce6f9f,theislab/zellkonverter,https://github.com/theislab/zellkonverter,85,85,15,16
+  Update NEWS for release",cb0256d419e0bb7129bec917f1ebaeacdf0c2842,lazappi/clustree,https://github.com/lazappi/clustree,159,159,13,16
+theislab,zellkonverter,1501897,https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg,https://github.com/theislab/zellkonverter/actions/runs/5055712904,failure,"Merge branch 'RELEASE_3_17' into devel
+
+* RELEASE_3_17:
+  Convert anndata backed sparse matrices in AnnData2SCE()
+  Pass correct dimensions when reading raw",b56718d113327020c024e188d9ac67ea57eaf35d,theislab/zellkonverter,https://github.com/theislab/zellkonverter,89,89,17,17
