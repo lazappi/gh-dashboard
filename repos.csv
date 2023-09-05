@@ -20,12 +20,12 @@ lazappi,clustree,lazappi/clustree,165,5,11,16,FALSE,https://github.com/lazappi/c
   Update NEWS for release",[![](https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418949) [![](https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418946) [![](https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418948)
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,11,2,0,6,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,11,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,2,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,0,2,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,b06050c7bd578c3781188e376ceefec7b32fc551,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/6067971609)
+lazappi,gh-dashboard,lazappi/gh-dashboard,0,2,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,70a043db9af9219374350b77438af6f95592163e,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/6079054316)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,2,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,2,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,2,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,160f001cc4545696aec65243dfdbc9b95cf8f6b3,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6067624873) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6067336643)
-lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,2cd6cc131c061036ec201cfdf19fa3b94d0a6414,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6067850272)
+lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,49b186f151f7bb711e7bbf6eaf59972bc4d49f57,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078931732)
+lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,888840d67d76e062ac4f2ced98b18db5b10fd2c2,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078705845) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078381879)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,2,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,2,0,0,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi_pkg,lazappi/lazappi_pkg,0,2,0,0,FALSE,https://github.com/lazappi/lazappi_pkg,0,NA,NA,NA
@@ -45,8 +45,49 @@ lazappi,twitter-stats,lazappi/twitter-stats,2,2,0,7,FALSE,https://github.com/laz
 lazappi,universe,lazappi/universe,0,2,0,0,FALSE,https://github.com/lazappi/universe,0,NA,NA,NA
 lazappi,wcplot,lazappi/wcplot,0,2,0,0,FALSE,https://github.com/lazappi/wcplot,0,NA,NA,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,2,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
-scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,271,18,6,73,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,abcb7128edc2fcdc1cca1eb0db0006707667e383,Merge pull request #258 from lazappi/master,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/6062160898)
-scverse,anndataR,scverse/anndataR,31,4,17,0,FALSE,https://github.com/scverse/anndataR,NA,d8445a6f5b351cf9789937c185fc4ba30677e1de,"H5ad helpers with pr83 (#90)
+scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,271,18,5,73,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,e979d5940b4347d01f9a279a286a62061b6c20b4,Merge pull request #259 from lazappi/master,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/6072858952)
+scverse,anndataR,scverse/anndataR,31,4,14,0,FALSE,https://github.com/scverse/anndataR,NA,2b117bc452f2e9469aa22d679e7008aa8e3bb97f,"Add H5AD read/write helpers (#88)
+
+* Add read_h5ad function
+
+* Add read_h5ad tests
+
+* Add write_h5ad function
+
+* Move test dummy helper to main function
+
+Makes it possible to use for examples. Also add SingleCellExperiment and
+Seurat dummy functions.
+
+* Refactor dummy datasets into a single function
+
+Needs to be exported for examples
+
+* Add write_h5ad tests and examples
+
+* Style and lint
+
+* H5ad helpers ++ (#89)
+
+* Remove temporary workaround
+
+* use `inherits()` instead of `is()`
+
+* Add HDF5AnnData and InMemoryAnnData to `read_h5ad()`
+
+* fix incorrect merge
+
+* try to fix error in R devel
+
+* fix docs
+
+* add terminal newline
+
+* remove conditions
+
+* undo previous commit
+
+* H5ad helpers with pr83 (#90)
 
 * support rhdf5 nullable vector and boolean enum implementation
 
@@ -75,7 +116,12 @@ scverse,anndataR,scverse/anndataR,31,4,17,0,FALSE,https://github.com/scverse/ann
 ---------
 
 Co-authored-by: Martin Morgan <Martin.Morgan@RoswellPark.org>
-Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/6049230304) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/6049230300)
-theislab,scib,theislab/scib,230,17,26,45,FALSE,https://github.com/theislab/scib,NA,96556af27d94053a0e25f44383838e9e706683bc,move flake8 args to setup.cfg,[![](https://github.com/theislab/scib/workflows/Pre-commit/badge.svg)](https://github.com/theislab/scib/actions/runs/2276639868)
-theislab,scib,theislab/scib,230,17,26,45,FALSE,https://github.com/theislab/scib,NA,ed3e2846414ca1e3dc07552c0eef1e68d82230d4,Bump version: 1.1.3 → 1.1.4,[![](https://github.com/theislab/scib/workflows/Deployment/badge.svg)](https://github.com/theislab/scib/actions/runs/5655324075)
+Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>
+Co-authored-by: Martin Morgan <Martin.Morgan@RoswellPark.org>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/6070678208) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/6070678209) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/6070678210)
+theislab,scib,theislab/scib,230,17,26,46,FALSE,https://github.com/theislab/scib,NA,96556af27d94053a0e25f44383838e9e706683bc,move flake8 args to setup.cfg,[![](https://github.com/theislab/scib/workflows/Pre-commit/badge.svg)](https://github.com/theislab/scib/actions/runs/2276639868)
+theislab,scib,theislab/scib,230,17,26,46,FALSE,https://github.com/theislab/scib,NA,ed3e2846414ca1e3dc07552c0eef1e68d82230d4,Bump version: 1.1.3 → 1.1.4,[![](https://github.com/theislab/scib/workflows/Deployment/badge.svg)](https://github.com/theislab/scib/actions/runs/5655324075)
 theislab,zellkonverter,theislab/zellkonverter,101,6,15,21,FALSE,https://github.com/theislab/zellkonverter,NA,25104dcf29c095025d675cb97f49911295c37ef1,Compatibility with {rhdf5} v2.45.1,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/5999241490)
