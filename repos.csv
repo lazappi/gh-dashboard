@@ -11,7 +11,7 @@ lazappi,bpipes,lazappi/bpipes,0,2,0,0,FALSE,https://github.com/lazappi/bpipes,0,
 lazappi,calc,lazappi/calc,0,2,0,0,FALSE,https://github.com/lazappi/calc,0,NA,NA,NA
 lazappi,clamour,lazappi/clamour,5,1,1,1,FALSE,https://github.com/lazappi/clamour,5,NA,NA,NA
 lazappi,clamour-example,lazappi/clamour-example,0,1,0,0,FALSE,https://github.com/lazappi/clamour-example,0,NA,NA,NA
-lazappi,clustree,lazappi/clustree,165,5,11,16,FALSE,https://github.com/lazappi/clustree,NA,cb0256d419e0bb7129bec917f1ebaeacdf0c2842,"Merge branch 'master' into develop
+lazappi,clustree,lazappi/clustree,166,5,11,16,FALSE,https://github.com/lazappi/clustree,NA,cb0256d419e0bb7129bec917f1ebaeacdf0c2842,"Merge branch 'master' into develop
 
 * master:
   Remove CRAN-SUBMISSION
@@ -20,12 +20,12 @@ lazappi,clustree,lazappi/clustree,165,5,11,16,FALSE,https://github.com/lazappi/c
   Update NEWS for release",[![](https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418949) [![](https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418946) [![](https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg)](https://github.com/lazappi/clustree/actions/runs/2567418948)
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,11,2,0,6,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,11,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,2,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,0,2,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,70a043db9af9219374350b77438af6f95592163e,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/6079054316)
+lazappi,gh-dashboard,lazappi/gh-dashboard,0,2,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,dfda2fff17b7c69beb3498b3d19ac131287f4705,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/6091553878)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,2,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,2,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,2,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,49b186f151f7bb711e7bbf6eaf59972bc4d49f57,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078931732)
-lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,888840d67d76e062ac4f2ced98b18db5b10fd2c2,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078705845) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6078381879)
+lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,37e435f64147df2120503fd18d25206b7dbe7a83,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6091422832)
+lazappi,lazappi,lazappi/lazappi,3,2,0,1,FALSE,https://github.com/lazappi/lazappi,3,4661eb1245bf194e109fe965c2e3e18dbbbc91ed,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6091170867) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/6090800035)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,2,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,2,0,0,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi_pkg,lazappi/lazappi_pkg,0,2,0,0,FALSE,https://github.com/lazappi/lazappi_pkg,0,NA,NA,NA
@@ -45,7 +45,7 @@ lazappi,twitter-stats,lazappi/twitter-stats,2,2,0,7,FALSE,https://github.com/laz
 lazappi,universe,lazappi/universe,0,2,0,0,FALSE,https://github.com/lazappi/universe,0,NA,NA,NA
 lazappi,wcplot,lazappi/wcplot,0,2,0,0,FALSE,https://github.com/lazappi/wcplot,0,NA,NA,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,2,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
-scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,271,18,5,73,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,e979d5940b4347d01f9a279a286a62061b6c20b4,Merge pull request #259 from lazappi/master,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/6072858952)
+scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,271,18,5,73,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,e979d5940b4347d01f9a279a286a62061b6c20b4,Merge pull request #259 from lazappi/master,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/6079801515)
 scverse,anndataR,scverse/anndataR,31,4,14,0,FALSE,https://github.com/scverse/anndataR,NA,2b117bc452f2e9469aa22d679e7008aa8e3bb97f,"Add H5AD read/write helpers (#88)
 
 * Add read_h5ad function
