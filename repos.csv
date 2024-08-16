@@ -18,13 +18,14 @@ lazappi,clamour-example,lazappi/clamour-example,0,2,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,208,6,12,16,FALSE,https://github.com/lazappi/clustree,NA,24900bdf459c29812c716ba9f889c58685f957ed,Fix code coverage badge,[![](https://github.com/lazappi/clustree/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/clustree/actions/runs/6796215931) [![](https://github.com/lazappi/clustree/workflows/pkgdown/badge.svg)](https://github.com/lazappi/clustree/actions/runs/6796215941) [![](https://github.com/lazappi/clustree/workflows/test-coverage/badge.svg)](https://github.com/lazappi/clustree/actions/runs/6796215933)
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,14,3,0,6,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,14,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,3,2,0,FALSE,https://github.com/lazappi/doilinker,5,16a860d1ed696c4cdcf8d10ba3a75e09482097a3,📝 Add r-universe badge to README,[![](https://github.com/lazappi/doilinker/workflows/R-CMD-check/badge.svg)](https://github.com/lazappi/doilinker/actions/runs/8049128238) [![](https://github.com/lazappi/doilinker/workflows/pkgdown/badge.svg)](https://github.com/lazappi/doilinker/actions/runs/8049128248) [![](https://github.com/lazappi/doilinker/workflows/test-coverage/badge.svg)](https://github.com/lazappi/doilinker/actions/runs/8049128236)
-lazappi,gh-dashboard,lazappi/gh-dashboard,0,3,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,6354876dfe5fb7288de12a4ecb2d6f12a07e54ff,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/10397329449)
+lazappi,gh-dashboard,lazappi/gh-dashboard,0,3,0,0,FALSE,https://github.com/lazappi/gh-dashboard,0,0943f998911c730886f2ff1480c6db4c6604729e,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/10413245369)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,3,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,3,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,3,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,4,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,3,0,1,FALSE,https://github.com/lazappi/lazappi,2,f6ffccd793799c867da293f93038cb0fe9df378b,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10395777305)
-lazappi,lazappi,lazappi/lazappi,2,3,0,1,FALSE,https://github.com/lazappi/lazappi,2,f89d716883603c1c427bc6338d4a0780d5bfd99e,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10396725823) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10396277919)
+lazappi,lazappi,lazappi/lazappi,2,3,0,1,FALSE,https://github.com/lazappi/lazappi,2,1e988e54bf6263f427949d5caa8111516f5fe945,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10413269317)
+lazappi,lazappi,lazappi/lazappi,2,3,0,1,FALSE,https://github.com/lazappi/lazappi,2,84de8ec33f248827a0a46c726b5bec01ebedf867,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10412597038)
+lazappi,lazappi,lazappi/lazappi,2,3,0,1,FALSE,https://github.com/lazappi/lazappi,2,ac8d1caae0add81f90a766f84295836f94a5eafa,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/10412986028)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,3,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,3,0,0,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,3,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -46,102 +47,24 @@ lazappi,tidydirectory,lazappi/tidydirectory,1,1,0,0,FALSE,https://github.com/laz
 lazappi,twitter-stats,lazappi/twitter-stats,2,3,0,7,FALSE,https://github.com/lazappi/twitter-stats,2,NA,NA,NA
 lazappi,wcplot,lazappi/wcplot,0,3,0,0,FALSE,https://github.com/lazappi/wcplot,0,NA,NA,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,3,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
-scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,301,21,6,75,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,b07f7deb278943bdfd66dcb422b58301e320b688,Merge pull request #285 from lazappi/main,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/10380878785)
-scverse,anndataR,scverse/anndataR,49,9,36,7,FALSE,https://github.com/scverse/anndataR,NA,1194af2ac114f114f92e52d9f4ffb46a82cd3fd0,"switch from rhdf5 to hdf5r (#169)
+scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,301,21,6,75,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,b07f7deb278943bdfd66dcb422b58301e320b688,Merge pull request #285 from lazappi/main,[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/10398244735)
+scverse,anndataR,scverse/anndataR,49,9,33,7,FALSE,https://github.com/scverse/anndataR,NA,dbc6897492d129bc59bf8de51bdaafdf90bcd22a,"Tidy user interface #2 (#180)
 
-* Update write_h5ad_categorical
+* Tidy user interface
 
-* fix styling
+Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>
 
-* Update write_h5ad_categorical
+* Update docs
 
-* Adjust H5AD categorical write test
-
-* Add write_h5ad_attributes function
-
-Replace repeated code in individual writers
-
-* ignore cyclomatic complexity warning for `write_h5ad_element` warning
-
-* formatting changes
-
-* in write_h5ad_attributes, allow file to be an open hdf5 file
-
-* wip
-
-* wip
-
-* substitute mentions of rhdf5 with hdf5r
-
-* strip obs_names and var_names from framework
-
-* update
-
-* fix tests and finalize
-
-* remove mentions of obs_names and var_names in the constructor
-
-* make sure filenames are always unique
-
-* add mode to various functions
-
-* manually close anndatas in tests (where needed)
-
-* only close when pointer is valid
-
-* move match
-
-* use $close() instead of $close_all()
-
-* switch to different branch
-
-* simplify test
-
-* gc afterclosing the adata in write_h5ad
-
-* guess the dtype and the space
+Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>
 
 * update docs
 
-* use hhoeflin's remote
-
-* bugfix in hdf5r has been released
-
-* update: nevermind, the fix wasn't included in the release yet
-
-* minor fixes
-
-* bump version number
-
-* remove remotes
-
-* remove references to rhdf5
-
-* fix attributes
-
-* style
-
-* fix write h5ad helpers
-
-* fix unit tests
-
 * fix linting issues
-
-* move hdf5 helpers
-
-* reuse existing functionality
-
-* add test (this seems to have been fixed at some point)
-
-* improve guessing of dtype when storing a logical vector
-
-* fix styling
-
-* reenable more tests
 
 ---------
 
-Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/9999292636) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/9999292635) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/9999292634)
+Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/10409552547) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/10409552557) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/10409552543)
 theislab,scib,theislab/scib,284,14,37,62,FALSE,https://github.com/theislab/scib,NA,5547cd1f6b24eed7499c6492bf5c1ef4e2ef9f7a,"Skip labels before loop (#394)
 
 * Skip labels before loop
@@ -151,7 +74,7 @@ theislab,scib,theislab/scib,284,14,37,62,FALSE,https://github.com/theislab/scib,
 ---------
 
 Co-authored-by: Michaela Müller <51025211+mumichae@users.noreply.github.com>",[![](https://github.com/theislab/scib/workflows/Deployment/badge.svg)](https://github.com/theislab/scib/actions/runs/10287985783)
-theislab,zellkonverter,theislab/zellkonverter,143,5,24,27,FALSE,https://github.com/theislab/zellkonverter,NA,328e7ea895196dbac6229ad3076e9b6ed00b7afe,"Merge branch 'RELEASE_3_19' into devel
+theislab,zellkonverter,theislab/zellkonverter,144,5,24,27,FALSE,https://github.com/theislab/zellkonverter,NA,328e7ea895196dbac6229ad3076e9b6ed00b7afe,"Merge branch 'RELEASE_3_19' into devel
 
 * RELEASE_3_19:
   Bump release version
