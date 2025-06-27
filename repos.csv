@@ -15,14 +15,15 @@ lazappi,clamour-example,lazappi/clamour-example,0,1,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,229,5,12,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,15,2,0,6,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,15,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,2,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,2,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,8eccac63db5389f61aadf735ac19756e32838083,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/15891444418)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,2,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,89ed20a0691b703e86b78cdfc36edaccff4b34b2,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/15916656036)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,2,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,2,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,0,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,2,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,4,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,2,0,1,FALSE,https://github.com/lazappi/lazappi,2,b6273d38b05eb79c4a160ada4d84a53f6a0b7985,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15890280621) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15889393105)
-lazappi,lazappi,lazappi/lazappi,2,2,0,1,FALSE,https://github.com/lazappi/lazappi,2,e6876431d5a6fef837ec489e3a9adf84d6f94022,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15891035753)
+lazappi,lazappi,lazappi/lazappi,2,2,0,1,FALSE,https://github.com/lazappi/lazappi,2,2b33703421bab0c0d3aee2c7da1718db16380474,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15916271427)
+lazappi,lazappi,lazappi/lazappi,2,2,0,1,FALSE,https://github.com/lazappi/lazappi,2,8224e9860c012596edaa6938abb0bb64c1f5eed6,Re-build README.Rmd,[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15915526354)
+lazappi,lazappi,lazappi/lazappi,2,2,0,1,FALSE,https://github.com/lazappi/lazappi,2,a14467314aa2ef3fa4e7cc191867ffc33769a5ba,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/15914647213)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,2,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,2,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,2,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -50,7 +51,7 @@ lazappi,wcplot,lazappi/wcplot,0,2,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,2,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,327,20,6,80,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,532f523bdcb00fa2bfd354c53dc5d7e3e6a10558,"Merge pull request #298 from lazappi/main
 
-Updates 2025-06-18",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/15866930729)
-scverse,anndataR,scverse/anndataR,82,10,19,12,FALSE,https://github.com/scverse/anndataR,NA,NA,NA,NA
+Updates 2025-06-18",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/15892543626)
+scverse,anndataR,scverse/anndataR,82,10,22,12,FALSE,https://github.com/scverse/anndataR,NA,NA,NA,NA
 theislab,scib,theislab/scib,363,12,43,69,FALSE,https://github.com/theislab/scib,NA,023c4e81f49156503e7e85ecc1d2d8405401eb1c,Bump version: 1.1.6 → 1.1.7 (#422),[![](https://github.com/theislab/scib/workflows/Deployment/badge.svg)](https://github.com/theislab/scib/actions/runs/12754078859) [![](https://github.com/theislab/scib/workflows/Test/badge.svg)](https://github.com/theislab/scib/actions/runs/12754078846)
 theislab,zellkonverter,theislab/zellkonverter,176,4,13,30,FALSE,https://github.com/theislab/zellkonverter,NA,51dc46a1135e7c565db02127a0881a3eb4906d27,Bump version and update NEWS,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/15752735454)
