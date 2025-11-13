@@ -17,7 +17,6 @@ repos:
   - scRNA-tools
   theislab:
   - zellkonverter
-  - scib
   scverse:
   - anndataR
 ---
