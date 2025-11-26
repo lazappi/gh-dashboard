@@ -1,7 +1,7 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
-oshlack,splatter,Oshlack/splatter,232,5,9,60,FALSE,https://github.com/Oshlack/splatter,NA,09e162689debf3e7b94bf33ed67814f2d4363127,"Bump JamesIves/github-pages-deploy-action from 4.7.3 to 4.7.4 (#183)
+oshlack,splatter,Oshlack/splatter,232,5,8,60,FALSE,https://github.com/Oshlack/splatter,NA,d07ea95d9c28a3ea97ec8f5ef4a29a27822ff586,"Bump actions/checkout from 5 to 6 (#184)
 
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/Oshlack/splatter/actions/runs/19257011962)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/Oshlack/splatter/actions/runs/19660496655)
 lazappi,Hello-World,lazappi/Hello-World,0,1,0,0,FALSE,https://github.com/lazappi/Hello-World,0,NA,NA,NA
 lazappi,HiTIME-CPP,lazappi/HiTIME-CPP,0,1,0,4,FALSE,https://github.com/lazappi/HiTIME-CPP,0,NA,NA,NA
 lazappi,OzSingleCell2019,lazappi/OzSingleCell2019,1,0,0,0,FALSE,https://github.com/lazappi/OzSingleCell2019,1,NA,NA,NA
@@ -17,15 +17,15 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,243,4,12,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,16,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,16,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,b87b0a72698b3f260c7cdd7bda5a27c698d30be5,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/19655933290)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,1409955c130a623746dee3d761f4550c76b05139,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/19690293142)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,0,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,44c64301067c81f3cc8241bb978c89045ed904ec,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19654239620)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,8750a41f0784804d9783fac2410035d35d73cdfc,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19655360858)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,f8f22257f34ec6929f0922619d78f0197c24e884,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19655973148)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,4f2621fd781b0950d22a6415f30c375a7c82837c,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19690333475)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,ce74ea6924b5a2d3ad93375caef00f3ade9e73ee,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19688681630)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,f4689dfd7312c96a7efa50519f298adb05d26ccb,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/19689735895)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -50,11 +50,11 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,332,19,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,39f8949a86b6014e25777f1c57bf7fc791dcd9bc,"Merge pull request #303 from lazappi/main
 
-Updates 2025-08-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/19622855558)
+Updates 2025-08-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/19657608852)
 scverse,anndataR,scverse/anndataR,127,9,31,14,FALSE,https://github.com/scverse/anndataR,NA,5ffd79a05bbc4a99194b89a6432777cf2f1760a5,"Bump actions/checkout from 5 to 6 (#384)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19564487811) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19564487805) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19564487816)
 scverse,anndataR,scverse/anndataR,127,9,31,14,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-theislab,zellkonverter,theislab/zellkonverter,192,2,15,31,FALSE,https://github.com/theislab/zellkonverter,NA,8a5a5a2a19cbbb84ed22f77d420e920de5ca10ee,"Bump JamesIves/github-pages-deploy-action from 4.7.3 to 4.7.4 (#154)
+theislab,zellkonverter,theislab/zellkonverter,192,2,14,31,FALSE,https://github.com/theislab/zellkonverter,NA,0127f9b004fff00f73dc7c839a5109287a46e802,"Bump actions/checkout from 5 to 6 (#155)
 
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/19257033601)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/19660560149)
