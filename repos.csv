@@ -17,14 +17,15 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,245,4,12,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,17,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,17,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,3fc4c68d2e641fe72dd0ace57e2a39564e9784e8,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/20154142358)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,d63dd9ee88bc767ce34a52fc65dd6961d0fa5aea,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/20185228276)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,0,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,15e7f79542692ccbfa409f98b9d94a3a87007b63,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20153528460)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,6cf0668f0df527cb253fc5e0694f64694751a5b9,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20152348943) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20150932500)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,68b107206370e72aa14fa0b76f7a9370072d088a,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20185253761)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,7b5f0dc577609f43a1f92c8837e589cd206dbe3d,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20184823296)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,d956ee4c943e3905380cfa8bdfe35cc0fbcb7f5b,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/20184002299)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -49,9 +50,9 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,333,19,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,39f8949a86b6014e25777f1c57bf7fc791dcd9bc,"Merge pull request #303 from lazappi/main
 
-Updates 2025-08-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/20121460006)
-scverse,anndataR,scverse/anndataR,132,9,40,14,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-scverse,anndataR,scverse/anndataR,132,9,40,14,FALSE,https://github.com/scverse/anndataR,NA,d8f8ab8987522f365f265ed2a9387e45069b4967,"Bump actions/checkout from 5 to 6 (#397)
+Updates 2025-08-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/20155781515)
+scverse,anndataR,scverse/anndataR,132,9,41,14,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
+scverse,anndataR,scverse/anndataR,132,9,41,14,FALSE,https://github.com/scverse/anndataR,NA,d8f8ab8987522f365f265ed2a9387e45069b4967,"Bump actions/checkout from 5 to 6 (#397)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19955705349) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19955705340) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19955705350) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19955705342)
 theislab,zellkonverter,theislab/zellkonverter,194,2,14,31,FALSE,https://github.com/theislab/zellkonverter,NA,0127f9b004fff00f73dc7c839a5109287a46e802,"Bump actions/checkout from 5 to 6 (#155)
