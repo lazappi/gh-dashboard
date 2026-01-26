@@ -15,18 +15,17 @@ lazappi,calc,lazappi/calc,0,1,0,0,FALSE,https://github.com/lazappi/calc,0,NA,NA,
 lazappi,chezmoi-dotfiles,lazappi/chezmoi-dotfiles,1,1,0,0,FALSE,https://github.com/lazappi/chezmoi-dotfiles,1,NA,NA,NA
 lazappi,clamour,lazappi/clamour,5,0,1,1,FALSE,https://github.com/lazappi/clamour,5,NA,NA,NA
 lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com/lazappi/clamour-example,0,NA,NA,NA
-lazappi,clustree,lazappi/clustree,248,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
+lazappi,clustree,lazappi/clustree,248,4,13,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,17,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,17,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,f2888b9eec7d49dbee8034ba8ef41f89a5d15052,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/21325627439)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,a49a98bd07aa9b022b4ee2144ad3ded3ed783429,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/21344459669)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,0,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,0,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,00034163da4f0620db732badd4fe840f37252863,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21325201323)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,c3be0ed314c6b8fd483fdbee476b2eda7917d379,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21325651318)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,f3f14b755eee14d06507964e39c54643b94333cd,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21324403204)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,6507ed0965bb5003f29c64fc1ab6d9d2ec72f200,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21342746115) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21341582380)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,73a1ef2d50fe5a5d626d6853d8f4f3285243eb28,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21343854351)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -51,7 +50,7 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,337,19,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,ad5130bfc1878b59f5e925b83b7a8836d6cba4d9,"Merge pull request #304 from lazappi/main
 
-Updates 2025-12-30",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/21308843138)
+Updates 2025-12-30",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/21326751890)
 scverse,anndataR,scverse/anndataR,146,9,46,16,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
 scverse,anndataR,scverse/anndataR,146,9,46,16,FALSE,https://github.com/scverse/anndataR,NA,cb75cf7e7d8af61ef737a8fc93742641e6846b9e,Set different cache versions in GHA (#403),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/20947119145) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/20947119175) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/20947119152) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/20947119164)
 theislab,zellkonverter,theislab/zellkonverter,197,2,16,31,FALSE,https://github.com/theislab/zellkonverter,NA,0b30029f56ea445d66a013c591c465fc89aa8c9f,Bump version to 1.20.1,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/20554014300)
