@@ -15,17 +15,17 @@ lazappi,calc,lazappi/calc,0,1,0,0,FALSE,https://github.com/lazappi/calc,0,NA,NA,
 lazappi,chezmoi-dotfiles,lazappi/chezmoi-dotfiles,1,1,0,0,FALSE,https://github.com/lazappi/chezmoi-dotfiles,1,NA,NA,NA
 lazappi,clamour,lazappi/clamour,5,0,1,1,FALSE,https://github.com/lazappi/clamour,5,NA,NA,NA
 lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com/lazappi/clamour-example,0,NA,NA,NA
-lazappi,clustree,lazappi/clustree,250,4,13,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
+lazappi,clustree,lazappi/clustree,251,4,13,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,17,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,17,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,d800f27a6e466a762da5e705f48ef9db184650e8,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/21791600886)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,3660fe0aa9dd54d735a472dcd9ebdcc7f0e83068,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/21811169740)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
-lazappi,git-cleanup,lazappi/git-cleanup,0,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,0,NA,NA,NA
+lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,1,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,ba00f651a36c4d255f653124e2f9f01f374c7fea,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21790996621)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,d970295f30c6c9aabc059980e1aefa80e3732f10,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21790007432) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21788920609)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,c4a227065911c47fee45300521b57e441e9dc8ae,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21808842535) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21807641286)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,f364c843b68e09f9ce2b6594c098425bb8c97be3,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/21810262756)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -37,7 +37,7 @@ lazappi,oecd-housing,lazappi/oecd-housing,0,1,0,0,FALSE,https://github.com/lazap
 lazappi,ozsinglecell18-twitter,lazappi/ozsinglecell18-twitter,0,1,0,0,FALSE,https://github.com/lazappi/ozsinglecell18-twitter,0,NA,NA,NA
 lazappi,phd-commits,lazappi/phd-commits,30,1,0,7,FALSE,https://github.com/lazappi/phd-commits,30,NA,NA,NA
 lazappi,phd-thesis,lazappi/phd-thesis,9,2,0,4,FALSE,https://github.com/lazappi/phd-thesis,9,NA,NA,NA
-lazappi,phd-thesis-analysis,lazappi/phd-thesis-analysis,7,1,0,2,FALSE,https://github.com/lazappi/phd-thesis-analysis,7,NA,NA,NA
+lazappi,phd-thesis-analysis,lazappi/phd-thesis-analysis,8,1,0,2,FALSE,https://github.com/lazappi/phd-thesis-analysis,8,NA,NA,NA
 lazappi,prettytc,lazappi/prettytc,1,1,0,0,FALSE,https://github.com/lazappi/prettytc,1,NA,NA,NA
 lazappi,requestival,lazappi/requestival,1,0,0,0,FALSE,https://github.com/lazappi/requestival,1,NA,NA,NA
 lazappi,separate_rmarkdown_navbar,lazappi/separate_rmarkdown_navbar,2,1,0,2,FALSE,https://github.com/lazappi/separate_rmarkdown_navbar,2,NA,NA,NA
@@ -50,7 +50,7 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,338,19,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,ee45b63f9543c193cd850226dfc1adc0af256b17,"Merge pull request #305 from lazappi/main
 
-Updates 2026-02-05",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/21774372930)
+Updates 2026-02-05",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/21792709496)
 scverse,anndataR,scverse/anndataR,149,9,39,16,FALSE,https://github.com/scverse/anndataR,NA,40e1612088028387bc98201a107b1c55f0a7f3a0,"Cherry-pick Bioc3.22 updates into devel (#411)
 
 * Cherry-pick dd6b69ccdefa79abf5a9b136f45d354d08a9474e
