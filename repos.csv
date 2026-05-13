@@ -16,14 +16,14 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,256,4,13,15,FALSE,https://github.com/lazappi/clustree,NA,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,18,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,5,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,dbb29b428deb7f542a5ef0070c679d29ffc6379c,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/25712560275)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1,d9e5a451100cb1519b229764f277ff4637bd35dc,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/25777706000)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,0,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,0,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,1,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,1,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,0,NA,NA,NA
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,6eb7bf44c2b4ec7d8339f79e5fa7aa933d79b38a,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25708217458) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25705070957)
-lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,e3ac843babf448edf2a6245406daa62a8ef60923,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25712473993)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,3e19279a76aab8086cec7bbd09f19d6863561a32,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25776670780)
+lazappi,lazappi,lazappi/lazappi,2,1,0,1,FALSE,https://github.com/lazappi/lazappi,2,42bd6a5193b5d8dd42a87c3ed5b50f7285338c9b,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25773270964) [![](https://github.com/lazappi/lazappi/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi/actions/runs/25769973370)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,0,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,1,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,0,NA,NA,NA
@@ -49,26 +49,297 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,0,
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,0,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,342,18,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,NA,44b5cc0e34ac2ca9f9311968034fbd5f2c230ecb,"Merge pull request #307 from lazappi/main
 
-Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/25654670286)
-scverse,anndataR,scverse/anndataR,173,12,39,19,FALSE,https://github.com/scverse/anndataR,NA,22a2191102282a69b23dbdb13e2b13dfe3159253,"Enable new linters (#453)
+Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/25717130403)
+scverse,anndataR,scverse/anndataR,174,12,36,19,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
+scverse,anndataR,scverse/anndataR,174,12,36,19,FALSE,https://github.com/scverse/anndataR,NA,897914bb5abaed985c86664466b3cdd3c3f4a24e,"Add Zarr to benchmarks (#446)
 
-* Replace any(is.na()) by anyNA()
+* WIP
 
-* Apply ! on a single element instead of the entire vector
+* More tests passing
 
-* Use nzchar() where possible
+* Fix df read bug
 
-* Mark regexes as fixed where possible
+* More tests passing after fixing zero-dimensional get bug in pizzarr
 
-* Use anyDuplicated() where possible
+* WIP: writing
 
-* Remove redundant is.integer() call
+* Fix more tests
 
-* Replace as.data.frame() by list2DF()
+* Zarr df writing
 
-* Use endsWith() where relevant
+* WIP: ZarrAnnData class
 
-* Run air",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25661682382) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25661682396) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25661682400) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25661682388) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25661682375)
-scverse,anndataR,scverse/anndataR,173,12,39,19,FALSE,https://github.com/scverse/anndataR,NA,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-scverse,anndataR,scverse/anndataR,173,12,39,19,FALSE,https://github.com/scverse/anndataR,NA,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
+* Tests passing
+
+* Tests that compare h5ad to zarr
+
+* Use Rarr to read full numeric arrays
+
+* Fix bugs. Add test for from_SingleCellExperiment with Zarr
+
+* Add a to_dense param to ZarrAnnData constructor. Add overwrite params internally.
+
+* Update
+
+* Backwards dense/sparse
+
+* Simplify how obs and var names handled in ZarrAnnData (similar to #171)
+
+* update extdata and documentation
+
+* fix set/get zarr _index, update text example.zarr and update tests similar to HDF5AnnData
+
+* Fix test
+
+* Revert unnecessary changes
+
+* Formatting
+
+* Add comments
+
+* remove unnecessary example zarr store
+
+* lintr and R check for zarr related utilities and functions, updated some documentation
+
+* add pizzarr to Suggests and README
+
+* proj
+
+* add keller-mark/pizzarr to Remotes
+
+* zip example.zarr
+
+* adapt read_zarr to Rarr
+
+* adapt write_zarr to Rarr
+
+* remove old scripts
+
+* update write_zarr
+
+* initial update to ZarrAnnData
+
+* update ZarrAnnData, documentation, and implement read_zarr_rec_array
+
+* review read zarr helpers, and update tests
+
+* update read_zarr, read tests pass
+
+* some updates for writing zarr
+
+* update write_empty_zarr
+
+* remove pizzarr, update documentation
+
+* remove pizzarr from tests
+
+* fix test-ZarrAnnData
+
+* update ZarrAnnData to imitate HDF5AnnData
+
+* check redundant files, correct lines
+
+* update example_h5ad.py, add zarr and change to example_files.py
+
+* add new test example
+
+* some linting changes
+
+* remove read/write_zattrs since implemented in Rarr
+
+* access read/write_zarr_attr
+
+* add some missing tests
+
+* update readers, update tests
+
+* correct nullable string zarr array write/read, introduce ordering in categorical zarr array
+
+* do some linting, fix commented out code
+
+* update some zarr writers and classes
+
+* fix documentation
+
+* fix compression interface for zarr
+
+* full lint check
+
+* fix examples
+
+* check, biocheck and lintr
+
+* fix development status
+
+* air format
+
+* air format test
+
+* update example.zarr.zip, skip some test (waiting for Rarr)
+
+* update example.zarr, fix some read_zarr_
+
+* fix examples
+
+* remove overwrite
+
+* R code styling
+
+* fixes from @lazappi
+
+* air format
+
+* update some documentation
+
+* fix some tests
+
+* more fixes on anndata-zarr integration
+
+* update ZarrAnnData$initialize
+
+* update zarr compression
+
+* fix column-order here, C based ordering for arrays
+
+* implement roundtrip tests for anndata-zarr
+
+* add zarr to vignettes
+
+* update README and software_design.rmd
+
+* update AnnData-usage
+
+* update write_zarr documentation
+
+* update write_zarr_null
+
+* fix rec_array, update tests and example datasets
+
+* fix duplicate chunks in Rmd
+
+* add write_zarr_null
+
+* update write string array (zarr), air and lint
+
+* implement writing empty zarr elements
+
+* update tests for rec_array conformance of h5ad and zarr
+
+* update mapping conformance test for h5ad and zarr
+
+* implement H5_ITER like ordering and fix h5ad vs zarr testing
+
+* air and lint
+
+* fix test bug
+
+* do not call expect_equal outside of test
+
+* implement examples, test and datasets for zarr v3
+
+* fix issues, lint and update example datasets to new anndata version
+
+* lint and merge
+
+* revert some lines
+
+* small changes
+
+* revert small changes
+
+* air format some tests
+
+* Set v2 in write_zarr_* helpers
+
+* Fix stop message in write_zarr_element()
+
+* Fix roxygen comment in write_zarr_element()
+
+* Expand compression list in as_ZarrAnnData()
+
+* Fix H5_ITER_INC_ORDERING docs
+
+* Fix as_ZarrAnnData() compression docs
+
+* Fix Zarr varm roundtrip test
+
+* Review duplicate entry in README
+
+* Fix typo in AnnData-usage docs
+
+* Fix comma in software design vignette
+
+* Adjust class descriptions in software design vignette
+
+* Roxygenise
+
+* Minor text fixes
+
+* Document .get_compressor
+
+* Minor fixes to function docs
+
+* Comment logic in create_zarr_group()
+
+* Fix indentation in read_zarr_sparse_array()
+
+* Add construct sparse matrix helper
+
+* Add ZARR_METADATA_FILES vector
+
+* Eval Zarr chunks in vignettes
+
+* Merge test-Zarrv3-read.R into test-Zarr-read.R
+
+* Combine roundtrip tests
+
+* Add roundtrip test helpers
+
+* Refactor test-h5ad-zarr.R to use helper
+
+* Refactor example files script
+
+- Use uv comments for dependencies
+- Update dependencies to latest stable versions
+- Add progress messages
+- Use Ruff for formatting
+
+* Remove H5_ITER_INC_ORDERING()
+
+* Remove Zarr compression comment
+
+* Fix factor creation in read_zarr_categorical()
+
+* Pin Rarr version
+
+* Delete existing Zarr path before writing
+
+* Add helper functions for accessing Zarr keys
+
+* Update read_zarr_element() error message
+
+* Add dimname warnings to ZarrAnnData
+
+* Add Zarr writeability checks/tests
+
+* Roxygenise, lint, style
+
+* Use setup-bioc for all GHA
+
+* Update WORDLIST
+
+* Add .venv to .Rbuildignore
+
+* Clean up test output
+
+* Add Zarr to benchmarks
+
+* run air format
+
+---------
+
+Co-authored-by: Mark Keller <7525285+keller-mark@users.noreply.github.com>
+Co-authored-by: Artur-man <artur-man@hotmail.com>
+Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25752847862) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25752847830) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25752847914) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25752847880) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/25752847853)
+scverse,anndataR,scverse/anndataR,174,12,36,19,FALSE,https://github.com/scverse/anndataR,NA,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
 theislab,zellkonverter,theislab/zellkonverter,208,2,16,32,FALSE,https://github.com/theislab/zellkonverter,NA,3cbe1b2dded4968de83339ea15f93a6e9516e2ac,Bioconductor 3.24 devel,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/25388847889)
