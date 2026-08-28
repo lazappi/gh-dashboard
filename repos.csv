@@ -16,15 +16,15 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,259,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,16727bcf7924d17a6f3251a16b4a8eeb9bfbe1de,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/33059605841)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,c158c9d0ec7dd1de4ba334c3743d19933eed2dee,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/33166676651)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
 lazappi,jtdwehi-twitter,lazappi/jtdwehi-twitter,1,1,0,1,FALSE,https://github.com/lazappi/jtdwehi-twitter,NA,NA,NA
 lazappi,lamin-test,lazappi/lamin-test,0,3,0,0,FALSE,https://github.com/lazappi/lamin-test,NA,NA,NA
 lazappi,lazappi,lazappi/lazappi,0,0,0,0,FALSE,https://github.com/lazappi/lazappi,NA,NA,NA
+lazappi,lazappi-v1,lazappi/lazappi-v1,2,1,0,1,FALSE,https://github.com/lazappi/lazappi-v1,16c109fe51e97fb32fb1b3fcd19196f683d0e96a,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi-v1/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi-v1/actions/runs/28484016500)
 lazappi,lazappi-v1,lazappi/lazappi-v1,2,1,0,1,FALSE,https://github.com/lazappi/lazappi-v1,504fa1f2821fdaa8deb47bb90baef095f661cc00,Update github-intro.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi-v1/workflows/Metrics%20(status)/badge.svg)](https://github.com/lazappi/lazappi-v1/actions/runs/29747330870) [![](https://github.com/lazappi/lazappi-v1/workflows/Render%20README/badge.svg)](https://github.com/lazappi/lazappi-v1/actions/runs/29745813053)
-lazappi,lazappi-v1,lazappi/lazappi-v1,2,1,0,1,FALSE,https://github.com/lazappi/lazappi-v1,9b8d34e862e16e1582c0b5b6b4e9012146885b54,Update github-status.svg - [Skip GitHub Action],[![](https://github.com/lazappi/lazappi-v1/workflows/Metrics%20(intro)/badge.svg)](https://github.com/lazappi/lazappi-v1/actions/runs/29744837211)
 lazappi,lazappi.github.io,lazappi/lazappi.github.io,0,1,0,0,FALSE,https://github.com/lazappi/lazappi.github.io,NA,NA,NA
 lazappi,lazappi.id.au,lazappi/lazappi.id.au,1,1,0,1,FALSE,https://github.com/lazappi/lazappi.id.au,NA,NA,NA
 lazappi,lazappi.r-universe.dev,lazappi/lazappi.r-universe.dev,0,1,1,0,FALSE,https://github.com/lazappi/lazappi.r-universe.dev,NA,NA,NA
@@ -43,34 +43,20 @@ lazappi,requestival,lazappi/requestival,1,0,0,0,FALSE,https://github.com/lazappi
 lazappi,separate_rmarkdown_navbar,lazappi/separate_rmarkdown_navbar,2,1,0,2,FALSE,https://github.com/lazappi/separate_rmarkdown_navbar,NA,NA,NA
 lazappi,ssummary,lazappi/ssummary,3,2,0,0,FALSE,https://github.com/lazappi/ssummary,NA,NA,NA
 lazappi,task_dimensionality_reduction_copy,lazappi/task_dimensionality_reduction_copy,0,1,1,0,FALSE,https://github.com/lazappi/task_dimensionality_reduction_copy,NA,NA,NA
-lazappi,thesis-template,lazappi/thesis-template,2,1,0,0,FALSE,https://github.com/lazappi/thesis-template,NA,NA,NA
+lazappi,thesis-template,lazappi/thesis-template,2,1,0,1,FALSE,https://github.com/lazappi/thesis-template,NA,NA,NA
 lazappi,tidydirectory,lazappi/tidydirectory,1,1,0,0,FALSE,https://github.com/lazappi/tidydirectory,NA,NA,NA
 lazappi,twitter-stats,lazappi/twitter-stats,2,1,0,7,FALSE,https://github.com/lazappi/twitter-stats,NA,NA,NA
 lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA,NA,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
-scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,341,18,8,84,FALSE,https://github.com/scRNA-tools/scRNA-tools,44b5cc0e34ac2ca9f9311968034fbd5f2c230ecb,"Merge pull request #307 from lazappi/main
+scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,342,18,8,84,FALSE,https://github.com/scRNA-tools/scRNA-tools,44b5cc0e34ac2ca9f9311968034fbd5f2c230ecb,"Merge pull request #307 from lazappi/main
 
-Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/32928347753)
-scverse,anndataR,scverse/anndataR,195,12,46,22,FALSE,https://github.com/scverse/anndataR,212e9050e75e2c9affce338238aa89a796f013bd,"Bump bencherdev/bencher from 0.6.11 to 0.6.12
-
-Bumps [bencherdev/bencher](https://github.com/bencherdev/bencher) from 0.6.11 to 0.6.12.
-- [Release notes](https://github.com/bencherdev/bencher/releases)
-- [Commits](https://github.com/bencherdev/bencher/compare/v0.6.11...v0.6.12)
-
----
-updated-dependencies:
-- dependency-name: bencherdev/bencher
-  dependency-version: 0.6.12
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>",[![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/32892522905)
-scverse,anndataR,scverse/anndataR,195,12,46,22,FALSE,https://github.com/scverse/anndataR,7242e711865052ec2964ce29710f067d439117dc,"Revert workaround for LZF compression on VLen strings (#497)
+Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/33079989469)
+scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,7242e711865052ec2964ce29710f067d439117dc,"Revert workaround for LZF compression on VLen strings (#497)
 
 Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>",[![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287518) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287480) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287535) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287506)
-scverse,anndataR,scverse/anndataR,195,12,46,22,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-scverse,anndataR,scverse/anndataR,195,12,46,22,FALSE,https://github.com/scverse/anndataR,d6ca45ada3e9e794a7ff3310a36252218adba730,"Backport fixes to Bioc 3.23 - anndataR 1.2.2 (#503)
+scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
+scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,8359232a146d6a30011d95578a3e99d1a10f2c9b,Update news,[![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/33159722073)
+scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,d6ca45ada3e9e794a7ff3310a36252218adba730,"Backport fixes to Bioc 3.23 - anndataR 1.2.2 (#503)
 
 * Check each branch against its own Bioconductor version (#502)
 
@@ -155,5 +141,5 @@ Fixes #495
 
 Co-authored-by: Luke Zappia <lazappi@users.noreply.github.com>
 Co-authored-by: Juan Andrés Tejedor <jatejser@doctor.upv.es>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/32017240654)
-scverse,anndataR,scverse/anndataR,195,12,46,22,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
+scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
 theislab,zellkonverter,theislab/zellkonverter,209,2,20,32,FALSE,https://github.com/theislab/zellkonverter,3cbe1b2dded4968de83339ea15f93a6e9516e2ac,Bioconductor 3.24 devel,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/25388847889)
