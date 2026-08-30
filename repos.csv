@@ -16,7 +16,7 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,259,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,67a8d93f76ff3fa3943f51936bdfbc6253056844,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/33239798547)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,0ddc3714f094c47fa03ba143a3ed92b6e911e98d,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/33294447845)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
@@ -50,7 +50,7 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,342,18,8,84,FALSE,https://github.com/scRNA-tools/scRNA-tools,44b5cc0e34ac2ca9f9311968034fbd5f2c230ecb,"Merge pull request #307 from lazappi/main
 
-Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/33184047788)
+Updates 2026-05-09",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/33246596225)
 scverse,anndataR,scverse/anndataR,195,12,47,22,FALSE,https://github.com/scverse/anndataR,7242e711865052ec2964ce29710f067d439117dc,"Revert workaround for LZF compression on VLen strings (#497)
 
 Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>",[![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287518) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287480) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287535) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/31884287506)
