@@ -16,7 +16,7 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,261,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,78c01cec43dd130e27757478117c6b68102a4819,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/35307676598)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,8a67ed6aaefdd71481fffaa10a23d2d3d011f400,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/35421573985)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
@@ -50,8 +50,56 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,344,18,8,84,FALSE,https://github.com/scRNA-tools/scRNA-tools,b148c84697ebfcc6cc9422504b7fc11a9109d1a8,"Merge pull request #310 from lazappi/main
 
-Updates 2026-09-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/35246161542)
-scverse,anndataR,scverse/anndataR,196,12,52,22,FALSE,https://github.com/scverse/anndataR,243bfa78c2f6a5b48051f5dc76fdc3409264398b,Release 1.3.2 to Bioc devel (#522),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885754) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885749) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885718) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885831) [![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197886831) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885773)
-scverse,anndataR,scverse/anndataR,196,12,52,22,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-scverse,anndataR,scverse/anndataR,196,12,52,22,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
+Updates 2026-09-27",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/35322791655)
+scverse,anndataR,scverse/anndataR,196,12,51,22,FALSE,https://github.com/scverse/anndataR,243bfa78c2f6a5b48051f5dc76fdc3409264398b,Release 1.3.2 to Bioc devel (#522),[![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885749) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885718) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197885831) [![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35197886831)
+scverse,anndataR,scverse/anndataR,196,12,51,22,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
+scverse,anndataR,scverse/anndataR,196,12,51,22,FALSE,https://github.com/scverse/anndataR,e4f2b98203c19bfcd07264afb7c7009ed91f61b8,"Backport mudata pin and anndata 0.13 support to Bioc 3.23 - anndataR 1.2.2 (#523)
+
+* Pin mudata<0.4 in python vignette (#512)
+
+(cherry picked from commit 9c8fd33c1d138e497a68cf9eab81a09c806ed233)
+
+* Pin mudata<0.4 in the CI workflows (#518)
+
+* pin mudata<0.4 in ci workflows
+
+* add news entry
+
+(cherry picked from commit 3d73cab8bc00ca74de84f5343dd35d9babbd3b82)
+
+* Class rename with anndata >= 0.13 and add warning (#510)
+
+* Support the anndata.AnnData class name from Python anndata >= 0.13
+
+* check anndata version instead of class name
+
+(cherry picked from commit c105c1e11e282d661d83077a298e41e3d4f65364)
+
+* Add backported mudata and anndata 0.13 fixes to the 1.2.2 NEWS entry
+
+* Add PR #523 to the 1.2.2 NEWS entry
+
+* Take into account Rarr structured datatype breaking change (#462)
+
+* Take into account Rarr structured datatype breaking change
+
+* Run air
+
+* add switch for backwards compatibility
+
+---------
+
+Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>
+(cherry picked from commit e3ea474653f7b8423351823a51e862542fe104c3)
+
+* Measure coverage against the branch's own Bioconductor version
+
+* Drop the R-devel setup workaround for Windows and macOS ARM
+
+* Add the CI fixes to the 1.2.2 NEWS entry
+
+---------
+
+Co-authored-by: Hugo Gruson <git@hugogruson.fr>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35315496312) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/35315496048)
+scverse,anndataR,scverse/anndataR,196,12,51,22,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
 theislab,zellkonverter,theislab/zellkonverter,210,2,20,32,FALSE,https://github.com/theislab/zellkonverter,3cbe1b2dded4968de83339ea15f93a6e9516e2ac,Bioconductor 3.24 devel,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/25388847889)
