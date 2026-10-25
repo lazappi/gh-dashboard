@@ -16,7 +16,7 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,262,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,fecfdc47ae66402dbb49040d577f646e132575d4,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/40062550251)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,dbc801a4a78197fb51b815b2f67f74a7b6d24564,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/40162377619)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
@@ -50,47 +50,14 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,343,18,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,28edc07db90393018dfbfa522a3b892e4c3f52c4,"Merge pull request #309 from dnncha/codex/add-dotmatch
 
-Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/39924387741)
-scverse,anndataR,scverse/anndataR,199,11,62,24,FALSE,https://github.com/scverse/anndataR,55b43045ae06654b1b5bdf06ede231387163d887,Use https for Bioconductor links in README,[![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39996500758)
-scverse,anndataR,scverse/anndataR,199,11,62,24,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
-scverse,anndataR,scverse/anndataR,199,11,62,24,FALSE,https://github.com/scverse/anndataR,e09ad8796120db86053d3b9685429e1f7ce6cb77,"Use Rarr::write_zarr_group to write zarr store/group (#490)
+Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/40076297687)
+scverse,anndataR,scverse/anndataR,199,11,61,24,FALSE,https://github.com/scverse/anndataR,7f19ebb4999c1b676fa84ada25ff45bf073ca843,Install hdf5-tools on Linux in check-bioc GHA,[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19328417967)
+scverse,anndataR,scverse/anndataR,199,11,61,24,FALSE,https://github.com/scverse/anndataR,ea434eeaa40bff9d39cd5229ffa39c32ac71c083,"Fix R CMD check notes (#552)
 
-* use Rarr::write_zarr_group
+* Add missing words to WORDLIST
 
-* rmv internal zarr utilities
+* Use title case in the package Title
 
-* bring back ill-removed functions
-
-* set zarr version to 2L for now
-
-* lint and air
-
-* Rarr dep version
-
-* add back check_zarr_format
-
-* lint and air
-
-* Trigger Build
-
-* change artifact create_zarr_group
-
-* update NEWS
-
-* use plain names for obs/var in write_empty_zarr
-
-* remove duplicate root group write
-
-* check minimum Rarr version in ZarrAnnData
-
-* require Rarr >= 2.1.27 in zarr test skips
-
-* test store paths through ZarrAnnData
-
-* replace create_zarr in obsm/varm null test
-
----------
-
-Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39955375871) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39955375834) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39955375855) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39955375966) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/39955375867)
-scverse,anndataR,scverse/anndataR,199,11,62,24,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
+* Use https for Bioconductor links in README",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148126) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148076) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148127) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148077) [![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148623) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/40121148074)
+scverse,anndataR,scverse/anndataR,199,11,61,24,FALSE,https://github.com/scverse/anndataR,eb1f739c8cf94103183a5db894782fc647b34c03,Fix lint (#389),[![](https://github.com/scverse/anndataR/workflows/R-CMD-check/badge.svg)](https://github.com/scverse/anndataR/actions/runs/19861554673)
 theislab,zellkonverter,theislab/zellkonverter,209,1,20,32,FALSE,https://github.com/theislab/zellkonverter,3cbe1b2dded4968de83339ea15f93a6e9516e2ac,Bioconductor 3.24 devel,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/25388847889)
