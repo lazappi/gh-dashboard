@@ -1,5 +1,5 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,commit_id,commit_message,badge
-oshlack,splatter,Oshlack/splatter,234,5,9,60,FALSE,https://github.com/Oshlack/splatter,eeb1dfcbfcb230928588f046f99082618043fe6b,Update NEWS and bump version,[![](https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/Oshlack/splatter/actions/runs/26177043373)
+oshlack,splatter,Oshlack/splatter,234,5,9,60,FALSE,https://github.com/Oshlack/splatter,df314676168115b419bdd69536a960da3c394184,Update NEWS for 3.24 release,[![](https://github.com/Oshlack/splatter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/Oshlack/splatter/actions/runs/43717457823)
 lazappi,Hello-World,lazappi/Hello-World,0,1,0,0,FALSE,https://github.com/lazappi/Hello-World,NA,NA,NA
 lazappi,HiTIME-CPP,lazappi/HiTIME-CPP,0,1,0,4,FALSE,https://github.com/lazappi/HiTIME-CPP,NA,NA,NA
 lazappi,OzSingleCell2019,lazappi/OzSingleCell2019,1,0,0,0,FALSE,https://github.com/lazappi/OzSingleCell2019,NA,NA,NA
@@ -9,6 +9,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",[![](https://github.com
 lazappi,RNAtools,lazappi/RNAtools,5,2,6,2,FALSE,https://github.com/lazappi/RNAtools,NA,NA,NA
 lazappi,afl-2018,lazappi/afl-2018,0,1,0,0,FALSE,https://github.com/lazappi/afl-2018,NA,NA,NA
 lazappi,aflelo,lazappi/aflelo,1,1,0,0,FALSE,https://github.com/lazappi/aflelo,NA,NA,NA
+lazappi,ai-skills,lazappi/ai-skills,0,0,0,0,FALSE,https://github.com/lazappi/ai-skills,NA,NA,NA
 lazappi,anndata-scaling,lazappi/anndata-scaling,2,0,0,0,FALSE,https://github.com/lazappi/anndata-scaling,NA,NA,NA
 lazappi,binf-scripts,lazappi/binf-scripts,8,1,0,5,FALSE,https://github.com/lazappi/binf-scripts,NA,NA,NA
 lazappi,bpipes,lazappi/bpipes,0,1,0,0,FALSE,https://github.com/lazappi/bpipes,NA,NA,NA
@@ -19,7 +20,7 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,260,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,fa4a71b9cc52d2d4d6885a868a2c82509e61860b,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/43684883078)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,54320681a12ef9344dbcabfbe15edfbec762bbc6,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/43815882046)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
@@ -53,7 +54,7 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,344,18,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,28edc07db90393018dfbfa522a3b892e4c3f52c4,"Merge pull request #309 from dnncha/codex/add-dotmatch
 
-Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/43583215436)
+Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/43704957758)
 scverse,anndataR,scverse/anndataR,201,10,52,25,FALSE,https://github.com/scverse/anndataR,340b5beeaaebec2fa8ed5541bd4508d9311b0523,"Prepare release 1.3.5 (#596)
 
 * bump version to 1.3.5
