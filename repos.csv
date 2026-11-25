@@ -20,7 +20,7 @@ lazappi,clamour-example,lazappi/clamour-example,0,0,0,0,FALSE,https://github.com
 lazappi,clustree,lazappi/clustree,260,4,13,16,FALSE,https://github.com/lazappi/clustree,NA,NA,NA
 lazappi,cookiecutter-r-analysis,lazappi/cookiecutter-r-analysis,18,1,0,5,FALSE,https://github.com/lazappi/cookiecutter-r-analysis,NA,NA,NA
 lazappi,doilinker,lazappi/doilinker,5,1,2,0,FALSE,https://github.com/lazappi/doilinker,NA,NA,NA
-lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,0c491cf578b86a887759bcdd6e982f446c5d7c83,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/45368461948)
+lazappi,gh-dashboard,lazappi/gh-dashboard,1,1,0,1,FALSE,https://github.com/lazappi/gh-dashboard,1fff5b9268fda4c547af40d32e15b5ba5a0c5f28,Re-build status page,[![](https://github.com/lazappi/gh-dashboard/workflows/Render%20Status/badge.svg)](https://github.com/lazappi/gh-dashboard/actions/runs/45575641591)
 lazappi,gi2017-twitter,lazappi/gi2017-twitter,0,1,0,0,FALSE,https://github.com/lazappi/gi2017-twitter,NA,NA,NA
 lazappi,gi2018-twitter,lazappi/gi2018-twitter,0,1,0,1,FALSE,https://github.com/lazappi/gi2018-twitter,NA,NA,NA
 lazappi,git-cleanup,lazappi/git-cleanup,1,1,0,0,FALSE,https://github.com/lazappi/git-cleanup,NA,NA,NA
@@ -54,9 +54,9 @@ lazappi,wcplot,lazappi/wcplot,0,1,0,0,FALSE,https://github.com/lazappi/wcplot,NA
 lazappi,workshop-notes,lazappi/workshop-notes,0,1,0,0,FALSE,https://github.com/lazappi/workshop-notes,NA,NA,NA
 scRNA-tools,scRNA-tools,scRNA-tools/scRNA-tools,344,18,6,83,FALSE,https://github.com/scRNA-tools/scRNA-tools,28edc07db90393018dfbfa522a3b892e4c3f52c4,"Merge pull request #309 from dnncha/codex/add-dotmatch
 
-Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/45171206162)
-scverse,anndataR,scverse/anndataR,201,10,51,25,FALSE,https://github.com/scverse/anndataR,01b1f95c921e067d3f97fabed8e496733ab2a524,keep the large zarr fixture's minor axis small,[![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/45051250472)
-scverse,anndataR,scverse/anndataR,201,10,51,25,FALSE,https://github.com/scverse/anndataR,14dcf110f3814595a7df7a61877e2a0ac4ece68a,"Add `read_elem()`/`write_elem()` (#582)
+Add DotMatch for CRISPR guide-capture assignment",[![](https://github.com/scRNA-tools/scRNA-tools/workflows/Build-site/badge.svg)](https://github.com/scRNA-tools/scRNA-tools/actions/runs/45403862219)
+scverse,anndataR,scverse/anndataR,201,10,53,25,FALSE,https://github.com/scverse/anndataR,14dcf110f3814595a7df7a61877e2a0ac4ece68a,"Add `read_elem()`/`write_elem()` (#582)
 
 Co-authored-by: Robrecht Cannoodt <rcannood@gmail.com>",[![](https://github.com/scverse/anndataR/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/scverse/anndataR/actions/runs/44908231910) [![](https://github.com/scverse/anndataR/workflows/Benchmarks%20(base)/badge.svg)](https://github.com/scverse/anndataR/actions/runs/44908231880) [![](https://github.com/scverse/anndataR/workflows/lint/badge.svg)](https://github.com/scverse/anndataR/actions/runs/44908231839) [![](https://github.com/scverse/anndataR/workflows/pkgdown/badge.svg)](https://github.com/scverse/anndataR/actions/runs/44908231861) [![](https://github.com/scverse/anndataR/workflows/test-coverage.yaml/badge.svg)](https://github.com/scverse/anndataR/actions/runs/44908231798)
-theislab,zellkonverter,theislab/zellkonverter,209,1,20,32,FALSE,https://github.com/theislab/zellkonverter,f948f04acf017a805bad94b3f3123f1931307d97,Bump version and update NEWS,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/42836345176)
+scverse,anndataR,scverse/anndataR,201,10,53,25,FALSE,https://github.com/scverse/anndataR,b9368ee02d455acd68d0e18794e71fb27a8720e8,drop tests now covered by #601 and #602,[![](https://github.com/scverse/anndataR/workflows/Test%20R-universe/badge.svg)](https://github.com/scverse/anndataR/actions/runs/45415882496)
+theislab,zellkonverter,theislab/zellkonverter,209,1,20,31,FALSE,https://github.com/theislab/zellkonverter,f948f04acf017a805bad94b3f3123f1931307d97,Bump version and update NEWS,[![](https://github.com/theislab/zellkonverter/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/theislab/zellkonverter/actions/runs/42836345176)
